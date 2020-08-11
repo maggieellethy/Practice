@@ -1,2 +1,2 @@
 # Practice
-any practice to clone and push terraform 
+any practice to clone and push 
